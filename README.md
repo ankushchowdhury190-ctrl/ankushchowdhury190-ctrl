@@ -2,7 +2,7 @@
 
 # Hi, I'm Ankush Chowdhury 👋
 
-🎓 CSE Student at Chandigarh University
+🎓 CSE Student at (PEC)Chandigarh University
 📚 Pursuing CSDA from IIT Patna
 
 💻 Passionate about Software Development, Data Structures & Algorithms, and AI
