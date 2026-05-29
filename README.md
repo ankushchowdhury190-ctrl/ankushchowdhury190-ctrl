@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**ankushchowdhury190-ctrl/ankushchowdhury190-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ankush Chowdhury 👋
 
-Here are some ideas to get you started:
+🎓 CSE Student at Chandigarh University
+📚 Pursuing CSDA from IIT Patna
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Software Development, Data Structures & Algorithms, and AI
+
+🚀 Tech Stack:
+- Java
+- Python
+- JavaScript
+- HTML & CSS
+- SQL
+- Git & GitHub
+
+🌱 Currently Learning:
+- Full-Stack Development
